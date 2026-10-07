@@ -1,0 +1,8 @@
+name = "affiliate-analytics"
+main = "worker.js"
+compatibility_date = "2026-07-31"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "analytics"
+database_id = "91062145-0204-4378-b47b-831318b2e6dc"
